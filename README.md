@@ -11,4 +11,4 @@ answer to question(a):
 
 answer to question no(b): 
 
-for the if condition it is a constant time operation O(n) and for the while loop it runs till i*i<=x or i<=√x so the time complextiy is O(√x).
+for the 1st if condition it is a constant time operation O(n) and for the while loop it runs till i*i<=x or i<=√x so the time complextiy is O(√x).
